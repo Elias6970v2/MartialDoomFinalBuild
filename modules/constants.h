@@ -3,7 +3,7 @@
 
 //Definició de constantes globales
 //Número de enemigos en pantalla
-const int  MAX_ENEMIES_NUMBER = 40;
+const int  MAX_ENEMIES_NUMBER = 30;
 
 //Tiempo que espera el programa para refrescar otra vez la pantalla(en ms)
 const int  REFRESH_TIME = 33333;
